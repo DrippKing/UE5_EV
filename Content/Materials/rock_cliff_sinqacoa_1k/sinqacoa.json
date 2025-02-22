@@ -1,0 +1,537 @@
+{
+  "assetCategories": {
+    "surface": {
+      "rock": {
+        "cliff": {},
+        "jagged": {},
+        "rough": {}
+      }
+    }
+  },
+  "averageColor": "#777469",
+  "categories": [
+    "surface",
+    "Rock",
+    "Cliffs"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.357543,
+  "displacementCalibrationAccuracy": 0.982591,
+  "displacementScale": 9.181999,
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 8192,
+  "id": "sinqacoa",
+  "json": {
+    "contentLength": 11399,
+    "uri": "sinqacoa.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#777469",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 164751149,
+      "maxIntensity": 235,
+      "mimeType": "image/x-exr",
+      "minIntensity": 27,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "sinqacoa_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#777469",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 82459969,
+      "maxIntensity": 235,
+      "mimeType": "image/jpeg",
+      "minIntensity": 27,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "sinqacoa_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 188863328,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "sinqacoa_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 11065937,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "sinqacoa_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 219827080,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "sinqacoa_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 54026624,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "sinqacoa_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#717171",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 179456158,
+      "maxIntensity": 219,
+      "mimeType": "image/x-exr",
+      "minIntensity": 35,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "sinqacoa_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#717171",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 3992496,
+      "maxIntensity": 219,
+      "mimeType": "image/jpeg",
+      "minIntensity": 35,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "sinqacoa_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#393939",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 109330658,
+      "maxIntensity": 142,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "sinqacoa_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#393939",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 55441551,
+      "maxIntensity": 142,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "sinqacoa_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8380F6",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 134291708,
+      "maxIntensity": 208,
+      "mimeType": "image/x-exr",
+      "minIntensity": 60,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "sinqacoa_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8380F6",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 100771823,
+      "maxIntensity": 208,
+      "mimeType": "image/jpeg",
+      "minIntensity": 60,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "sinqacoa_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#C6C6C6",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 113846344,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 113,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "sinqacoa_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#C6C6C6",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 54344745,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 113,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "sinqacoa_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 260662052,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "sinqacoa_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 36682457,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "sinqacoa_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.144 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "4096 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Rock Cliff",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 280897,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "sinqacoa_Grid_360.png"
+      },
+      {
+        "contentLength": 380515,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "sinqacoa_Grid_420.png"
+      },
+      {
+        "contentLength": 1120798,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "sinqacoa_Grid_720.png"
+      },
+      {
+        "contentLength": 1528374,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "sinqacoa_Grid_840.png"
+      },
+      {
+        "contentLength": 2981071,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "sinqacoa_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 5543355,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "sinqacoa_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 11879278,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "sinqacoa_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 22712578,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "sinqacoa_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 3421336,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "sinqacoa_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 6414338,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "sinqacoa_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 13679670,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "sinqacoa_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 25876819,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "sinqacoa_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 3412103,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "sinqacoa_Popup_1440.png"
+      },
+      {
+        "contentLength": 6406881,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "sinqacoa_Popup_1920.png"
+      },
+      {
+        "contentLength": 13800337,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "sinqacoa_Popup_2880.png"
+      },
+      {
+        "contentLength": 26381195,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "sinqacoa_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 18:30:47",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "surface",
+    "contains": [
+      "rock",
+      "cliff"
+    ],
+    "environment": [
+      "tundra biome",
+      "taiga biome"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [],
+    "locations": {
+      "Global": {
+        "Global": {}
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Rock Cliff",
+    "orientation": [],
+    "resolution": 8192,
+    "state": [
+      "old",
+      "damaged"
+    ],
+    "subject_matter": "nature",
+    "theme": [
+      "jagged",
+      " sharp",
+      " jagged",
+      " pointy",
+      " pitted",
+      "cliffs"
+    ]
+  },
+  "tags": [
+    "surface mix",
+    "rock",
+    "cliff",
+    "archviz"
+  ],
+  "texelDensity": 4096,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 371574239,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/sinqacoa_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 107036608,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/sinqacoa_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 26010469,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/sinqacoa_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 2609991,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/sinqacoa_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
